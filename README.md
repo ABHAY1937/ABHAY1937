@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ABHAY1937
+- 👋 Hi, I’m ABHAY
 - 👀 I’m interested in Big data technologies and Data Science
-- 🌱 I’m currently learning new topics related with Data Science
-- 💞️ I’m looking to collaborate on topics related with data science and machine learning
+- 🌱 I’m currently learning new topics related with Data Science(AI)
+- 💞️ I’m looking to collaborate on topics related with data science,machine learning,Deep Lwearning and Computer Vision
 - 📫 How to reach me, https://www.linkedin.com/in/abhay-a-814709244/  this is my social profile you can get in touch with me 
 - or use this mail 'abhayanil77@gmail.com'
 <!---
