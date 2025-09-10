@@ -1,9 +1,27 @@
-- 👋 Hi, I'm ABHAY, an AI enthusiast.
-- 👀 I'm passionate about AI, especially in the realms of Big Data, Data Science, Machine Learning, Deep Learning, and Computer Vision.
-- 🌱 Currently diving deep into AI technologies such as PyTorch, DeepStream, and 3D mesh processing.
-- 💡 I'm eager to collaborate on projects related to AI, whether it's exploring novel algorithms, implementing cutting-edge models, or tackling real-world challenges.
-- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/abhay-a-814709244/ or via email: abhayanil77@gmail.com
-<!---
-ABHAY1937/ABHAY1937 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm ABHAY  
+
+🚀 **AI Engineer | Deep Learning & Generative AI Enthusiast**  
+
+- 👀 Passionate about **Artificial Intelligence**, with expertise in:  
+  - **Deep Learning Frameworks**: TensorFlow, PyTorch  
+  - **AI Deployment & Optimization**: DeepStream, TensorRT, Docker  
+  - **Generative AI**: LLMs, RAG (Retrieval-Augmented Generation), Chatbots  
+  - **Computer Vision**: Object Detection, Segmentation, Tracking, Pose Keypoints  
+  - **Data Annotation & Pipelines**: Designing and building datasets, annotation workflows, and automation  
+  - **End-to-End CV Development**: Expert in developing Computer Vision tasks from scratch and delivering quick POCs  
+
+- 🌱 Currently exploring **advanced AI research**, focusing on **scalable AI solutions**, **GenAI applications**, and **real-world deployments**.  
+
+- 💡 Open to **collaborations** on:  
+  - AI-powered products & research  
+  - Open-source contributions  
+  - Rapid prototyping and proof-of-concepts (POCs) in CV and NLP  
+
+- 🤝 I’m always excited to **join hands on open-source projects** and contribute to impactful AI innovations.  
+
+- 📫 Let’s connect:  
+  - **LinkedIn**: [Abhay A](https://www.linkedin.com/in/abhay-a-814709244/)  
+  - **Email**: abhayanil77@gmail.com  
+
+---
+✨ _Building intelligent systems, from concept to deployment._  
