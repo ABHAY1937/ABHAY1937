@@ -1,15 +1,79 @@
-# 💫 About Me:
-🚀 **AI/ML Engineer | Agentic AI Systems | Multi-Agent Orchestration | Computer Vision | Edge AI | Intelligent Automation**<br><br>I'm an AI/ML Engineer passionate about building **production-ready AI systems** that transform complex ideas into scalable, real-world solutions. My expertise spans the complete AI lifecycle—from **dataset engineering**, **custom model training**, and **model optimization** to **high-performance deployment**, **AI infrastructure**, and **enterprise-grade automation**.<br><br>### 🚀 Core Expertise<br><br>- 🤖 Agentic AI Systems & Multi-Agent Orchestration<br>- ⚙️ Agentic RPA & Intelligent Workflow Automation<br>- 🧠 Large Language Models (LLMs), Vision Language Models (VLMs) & Multimodal AI<br>- 🔍 Retrieval-Augmented Generation (RAG), AI Agents & LLMOps<br>- 🦜 LangChain, LangGraph & Model Context Protocol (MCP)<br>- ⚡ vLLM, Ollama & High-Performance LLM Serving<br>- 📹 Computer Vision, Real-Time Video Analytics & Driver Monitoring Systems (DMS)<br>- 🎯 YOLO, PyTorch, TensorFlow, OpenCV & Deep Learning<br>- 🚀 NVIDIA DeepStream, TensorRT, CUDA & Model Quantization<br>- 🤖 NVIDIA Jetson, Edge AI Deployment & Embedded AI Systems<br>- ☁️ Docker, AWS, Scalable AI Infrastructure & Production MLOps<br><br>I specialize in developing **high-performance AI applications** for **Computer Vision**, **Industrial Safety**, **Driver Monitoring**, **Video Analytics**, **Edge AI**, and **Enterprise Intelligent Automation**, delivering scalable, efficient, and production-ready solutions.<br><br>> **"Building intelligent AI systems—from Computer Vision and Edge AI to Agentic RPA and enterprise-scale multi-agent orchestration."** 🚀
+# Hi, I'm Abhay 👋
 
+### AI Engineer — Agentic AI & Enterprise Automation
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abh_a_y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-a-814709244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhayanil77@gmail.com) 
+I build AI systems that hold up outside the notebook: **agentic RPA** that replaces costly bot licences, **MCP tool servers and LLM gateways** that let agents act inside real enterprise software, **retrieval-driven LLM systems**, and **computer vision at the edge**. I start with the business case (process discovery, scope and ROI), then architect, evaluate and ship.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-# 📊 GitHub Stats:
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhay1937.github.io-D8481F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhay1937.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-15181A?style=for-the-badge&logo=readme&logoColor=white)](https://abhay1937.github.io/Abhay_A_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-a-814709244/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayanil77@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_abh_a_y)
+
+---
+
+## 🛠️ What I'm working on
+
+- 🏢 **AI/ML Engineer @ NGXP Technologies** (Kochi): leading AI & automation discovery for a large enterprise. **600+ processes** assessed and **100+ process cycles** shortlisted for rollout, each with scope and ROI.
+- 🤖 Designing an **agentic RPA platform**: custom LLM agents on the open-source **Cua** computer-use framework, cutting the per-bot licensing cost of tools like UiPath.
+- 🔌 Architecting **MCP tool servers** for ERP/CRM behind an **LLM gateway** (routing, fallback, cost control) with human-in-the-loop approvals.
+- 📏 Defining **AI evals + LangSmith tracing** to verify agent accuracy before rollout.
+
+## 📈 Highlights
+
+| | |
+|---|---|
+| **3+ yrs** | building production AI, from edge CV to agentic systems |
+| **~80%** | lower LLM inference cost via 4-bit quantization + RunPod serverless |
+| **95%** | accuracy in deployed real-time vision models |
+| **180+ FPS** | zero-GPU ANPR on CPU (HOG + PaddleOCR) |
+| **~58% Acc@0.5** | RefCOCO visual grounding on an 8GB GPU (SpatialVLM) |
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Hivefloor**](https://github.com/ABHAY1937/Hivefloor) | Local-first desktop office for AI coding agents: real terminals, a boss agent that routes work, shared memory, Docker sandboxing, approval gates | TypeScript · Electron · node-pty |
+| [**SpatialVLM**](https://github.com/ABHAY1937/SpatialVLM) | Grounding head on 4-bit Qwen2-VL-7B for pixel-precise object localization | Qwen2-VL · PyTorch |
+| [**VLM-Guided Anomaly Detection**](https://github.com/ABHAY1937/VLM-Guided-Unsupervised-Anomaly-Detection) | Zero-label defect detection: CLIP patches + VLM normality priors guiding PatchCore, MVTec AD benchmark | CLIP · PatchCore · OpenVINO |
+| [**SpatialVLM Auto-Annotator**](https://github.com/ABHAY1937/spatialvlm-annotator) | Auto-labels images for detection, segmentation and pose with a VLM, no manual annotation | Qwen2-VL · Python |
+| [**WebRTC Video Calling**](https://github.com/ABHAY1937/Webrtc_calling_app) | P2P browser calls + GStreamer pipeline exposing calls as RTSP / YouTube Live for YOLO vision | WebRTC · Socket.io · GStreamer |
+| [**Transcript → Knowledge Graph**](https://github.com/ABHAY1937/transcript-knowledge-graph) | Whisper transcription → semantic chunking → local-LLM extraction → Neo4j graph | Whisper · Ollama · Neo4j |
+| [**Medical NLP Chatbot**](https://github.com/ABHAY1937/medical-nlp-chatbot) | Clinical Q&A with hybrid retrieval (SQL + vector RAG) and a local LLM | FastAPI · ChromaDB · SQLite |
+
+## 🧰 Tech stack
+
+**Agentic AI & LLMOps:** MCP Servers · Agentic RPA (Cua) · Computer-Use Agents · LLM Gateway · AI Evals · LangSmith · LangChain · LangGraph · Code Mode · OpenCode
+
+**GenAI & LLMs:** Claude API · LLaMA · Qwen2-VL · Hugging Face · Ollama · vLLM · RAG · 4-bit Quantization · NLLB
+
+**Computer Vision & Edge:** YOLO · OpenCV · DeepStream · OpenVINO · TensorRT · GStreamer · NVIDIA Jetson · Pose Estimation · Knowledge Distillation
+
+**Data & Infra:** Docker · AWS · RunPod Serverless · FastAPI · Kafka · WebRTC · PostgreSQL · MongoDB · Supabase · FAISS · ChromaDB · Milvus · Qdrant · Neo4j
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_DeepStream_|_TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+## 📊 GitHub stats
+
 ![](https://github-readme-stats.shion.dev/api?username=abhay1937&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=abhay1937&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhay1937&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *Built for production, not demos.*
